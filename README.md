@@ -14,6 +14,7 @@ Just a repo for blog.
 | :hammer:      | `:hammer:`      | refactor(s)          |
 | :lipstick:    | `:lipstick:`    | UI related update(s) |
 | :memo:        | `:memo:`        | modify readme        |
+| :arrow_up:    | `:arrow_up:`    | update dependencies  |
 
 ## 🚀 Project Structure
 
