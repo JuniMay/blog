@@ -6,4 +6,4 @@ updatedDate: "Sept 26 2022"
 heroImage: "/blog/placeholder-about.jpg"
 ---
 
-I'm a currently an undergraduate student at Nankai University, with a double major in Information Security and Law.
+I am currently an undergraduate student at Nankai University, with a double major in Information Security and Law.
